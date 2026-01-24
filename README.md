@@ -30,7 +30,7 @@ Business implication:
 Future growth will likely depend more on pricing strategy and customer value optimization than on volume growth.
 ### 2. Discounts Drive Volume, but Erode Profit Quality
 Over time, the average discount rate increased, especially in the later years. While discounts supported revenue continuity, profit did not grow at the same pace.
-This indicates diminishing returns from discounting—each additional unit of revenue is becoming less profitable.
+This indicates diminishing returns from discounting, each additional unit of revenue is becoming less profitable.
 Business implication:
 Discounting is being used as a short-term sales lever, but at the cost of long-term margin sustainability. A more selective, segment-based discount strategy is required.
 ### 3. Customer Mix Is a Key Profit Lever
